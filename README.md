@@ -2,6 +2,8 @@
 
 В этом репозитории находится полезная информация, собранная участниками чата.
 
+- [Элементарный уровень, основы основ.](../blob/master/ELEMENTARY)
+
 ## Как в 44 года стать программистом на Python. [Youtube канал](https://www.youtube.com/channel/UChbHeEGkYqM2b1HdAhf4y1g)
 
 - [Объясняю с чего начать.](https://www.youtube.com/watch?v=XThWZuEOCNE)
