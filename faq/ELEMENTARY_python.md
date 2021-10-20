@@ -11,7 +11,7 @@
 6. [w3schools.com ENG](https://www.w3schools.com/python/default.asp)
 
 
-###БОНУС
+### БОНУС
 Интерактивные интерпретаторы, позволяющие решать задачи без установки окружения:
 
 - [pythontutor.com](https://pythontutor.com/live.html#mode=edit)
