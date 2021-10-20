@@ -2,9 +2,25 @@
 
 В этом репозитории находится полезная информация, собранная участниками чата.
 
-- [Элементарный уровень, основы основ.](faq/ELEMENTARY.md)
+## Элементарный уровень
 
-- [Шпарнгалка по синтаксису markdown для GitHub](faq/markdown.md)
+- [Начало работы с Вебом](faq/ELEMENTARY.md)
+- [Язык программирования Python](faq/ELEMENTARY_python.md)
+
+## Продвинутый уровень
+
+- [Python](faq/PRACTICAL_python.md)
+
+## Материалы и ресурсы других ИТ-сообществ:
+
+- [Карты развития Python](faq/roadmaps_python.md)
+
+***
+Полезное:
+
+- [Шпаргалка по синтаксису markdown для GitHub](faq/markdown.md)
+- [Шпаргалка по Git](faq/git_docs.md)
+
 
 ## Как в 44 года стать программистом на Python. [Youtube канал](https://www.youtube.com/channel/UChbHeEGkYqM2b1HdAhf4y1g)
 
