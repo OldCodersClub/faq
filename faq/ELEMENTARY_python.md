@@ -1,6 +1,6 @@
 ## Бесплатные материалы и тренажеры по Python начального уровня:
 
-1. ["Поколение Python": курс для начинающих](https://stepik.org/course/58852/info
+1. ["Поколение Python": курс для начинающих](https://stepik.org/course/58852/info)
 2. ["Поколение Python": курс для продвинутых](https://stepik.org/course/68343/info)
 
 или
