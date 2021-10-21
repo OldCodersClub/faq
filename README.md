@@ -9,7 +9,8 @@
 
 ## Продвинутый уровень
 
-- [Python](faq/PRACTICAL_python.md)
+- [Все для веб-разработчика](faq/PRACTICAL_webdev.md)
+- [Все о Python](faq/PRACTICAL_python.md)
 
 ## Материалы и ресурсы других ИТ-сообществ:
 
