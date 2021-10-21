@@ -18,8 +18,9 @@
 ***
 Полезное:
 
-- [Шпаргалка по синтаксису markdown для GitHub](faq/markdown.md)
 - [Шпаргалка по Git](faq/git_docs.md)
+- [Шпаргалка по синтаксису markdown для GitHub](faq/markdown.md)
+- [Более одного аккаунта на GitHub с одной машины](faq/ssh_key.md)
 
 
 ## Как в 44 года стать программистом на Python. [Youtube канал](https://www.youtube.com/channel/UChbHeEGkYqM2b1HdAhf4y1g)
