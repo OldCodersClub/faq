@@ -6,15 +6,19 @@
 
 - [Начало работы с Вебом](faq/ELEMENTARY.md)
 - [Язык программирования Python](faq/ELEMENTARY_python.md)
+- Ведение в программирование.[Подборка материалов по остальным языкам.](faq/courses.md)
 
 ## Продвинутый уровень
 
 - [Все для веб-разработчика](faq/PRACTICAL_webdev.md)
 - [Все о Python](faq/PRACTICAL_python.md)
+- [Пет-проекты разной сложности: ресурсы, идеи](faq/pets.md)
+- [Задачи для прокачки + тестовые задания](faq/problems.md)
 
 ## Материалы и ресурсы других ИТ-сообществ:
 
-- [Карты развития Python](faq/roadmaps_python.md)
+- [Что учить веб-разработчику. Разные гайды 2021](faq/roadmaps_webdev.md)
+- [Карты развития Python 2021](faq/roadmaps_python.md)
 
 ## Профессии
 
@@ -26,6 +30,7 @@
 - [Шпаргалка по Git](faq/git_docs.md)
 - [Шпаргалка по синтаксису markdown для GitHub](faq/markdown.md)
 - [Более одного аккаунта на GitHub с одной машины](faq/ssh_key.md)
+- [Как мы учим английский язык](faq/English.md)
 
 
 ## Как в 44 года стать программистом на Python. [Youtube канал](https://www.youtube.com/channel/UChbHeEGkYqM2b1HdAhf4y1g)
