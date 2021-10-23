@@ -35,6 +35,8 @@
 
 - Где взять опыт для начинающего тестировщика. [Проект "Хомячки"](https://habr.com/ru/company/yandex_praktikum/blog/567470/)
 
+- [Оксана-свитчер, как войти в тестирование](https://www.instagram.com/p/B9poVdwoZKA/?utm_medium=copy_link)
+
 
 
 
