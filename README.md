@@ -16,6 +16,10 @@
 
 - [Карты развития Python](faq/roadmaps_python.md)
 
+## Профессии
+
+- [В тестировщики хочу, пусть меня научат!](faq/profession_tester.md)
+
 ***
 Полезное:
 
