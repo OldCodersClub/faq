@@ -8,7 +8,8 @@
 4.  [Что такое HTML](https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/HTML_basics)
 5. [Учебник](http://code.mu/ru/markup/book/prime/) по основам HTML/CSS/JavaScript простым языком
 6. [Первые шаги в JavaScript](https://developer.mozilla.org/ru/docs/Learn/JavaScript/First_steps)
-7. Интерактивные тренажеры для практики HTML/CSS и JavaScript:
+7. [Современный учебник JavaScript на learn.javascript.ru](https://learn.javascript.ru/)
+8. Интерактивные тренажеры для практики HTML/CSS и JavaScript:
   - ### RU:
     * [HTMLacademy](https://htmlacademy.ru/courses/basic-html-css)
     * [HTML на ru.code-basics](https://ru.code-basics.com/languages/html) и [CSS](https://ru.code-basics.com/languages/css)
