@@ -6,12 +6,12 @@
 
 - [Начало работы с Вебом](faq/ELEMENTARY.md)
 - [Язык программирования Python](faq/ELEMENTARY_python.md)
-- Ведение в программирование.[Подборка материалов по остальным языкам.](faq/courses.md)
+- Ведение в программирование. [Подборка материалов по остальным языкам.](faq/courses.md)
 
 ## Продвинутый уровень
 
 - [Все для веб-разработчика](faq/PRACTICAL_webdev.md)
-- [Все о Python](faq/PRACTICAL_python.md)
+- [Все для Python-разработчика](faq/PRACTICAL_python.md)
 - [Пет-проекты разной сложности: ресурсы, идеи](faq/pets.md)
 - [Задачи для прокачки + тестовые задания](faq/problems.md)
 
@@ -23,6 +23,7 @@
 ## Профессии
 
 - [В тестировщики хочу, пусть меня научат!](faq/profession_tester.md)
+- [Кто такие бизнес-аналитики и как стать БА?](https://www.thebagirl.com/kto-takie-biznes-analitiki-i-kak-stat-ba/?fbclid=IwAR2I52YZpqqMA8DvP5NGUr8tYx4nsSyMMf1e-CRvuEG1-j3BqONNpI-6_F4)
 
 ***
 Полезное:
