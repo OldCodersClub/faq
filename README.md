@@ -26,11 +26,9 @@
 - [Кто такие бизнес-аналитики и как стать БА?](https://www.thebagirl.com/kto-takie-biznes-analitiki-i-kak-stat-ba/?fbclid=IwAR2I52YZpqqMA8DvP5NGUr8tYx4nsSyMMf1e-CRvuEG1-j3BqONNpI-6_F4)
 
 ***
-Полезное:
+## Полезное:
 
-- [Шпаргалка по Git](faq/git_docs.md)
-- [Шпаргалка по синтаксису markdown для GitHub](faq/markdown.md)
-- [Более одного аккаунта на GitHub с одной машины](faq/ssh_key.md)
+- [Git и GitHub](faq/git_docs.md)
 - [Как мы учим английский язык](faq/English.md)
 
 
