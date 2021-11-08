@@ -11,7 +11,7 @@
 - Официальный учебник на русском (свободный доступ):
   - [онлайн](https://git-scm.com/book/ru/v2)  
 [<img src="https://git-scm.com/images/progit2.png" width="50">](https://git-scm.com/book/ru/v2)
-  - [скачать](https://github.com/progit/progit2-ru/releases) (в разных форматах, всегда свежая версия)  
+  - [скачать](https://github.com/progit/progit2-ru/releases) (в разных форматах, по этой ссылке всегда свежая версия)  
 [<img src="https://git-scm.com/images/pdf.png" width="50">](https://github.com/progit/progit2-ru/releases/download/2.1.93/progit.pdf)
 [<img src="https://git-scm.com/images/epub.png" width="50">](https://github.com/progit/progit2-ru/releases/download/2.1.93/progit.epub)
 [<img src="https://git-scm.com/images/mobi.png" width="50">](https://github.com/progit/progit2-ru/releases/download/2.1.93/progit.mobi)
@@ -26,15 +26,36 @@
 
 ### Видео уроки ###
 
-- Особое мнение от уважаемого **_всё ещё_ Сергея Нмчинского**:
-  - [Что такое Git? Зачем он нужен?](https://www.youtube.com/watch?v=adHqyxdWWRM)
-  - [Git: как правильно использовать?](https://www.youtube.com/watch?v=QjT4HuF9gJs)
+Особое мнение от уважаемого **_всё ещё_ Сергея Нмчинского**:  
 
-<!-- -->
 
-- Плейлист [GitHub для самых маленьких](https://www.youtube.com/playlist?list=PL3LQJkGQtzc5rDeb7FjACNb6sOW300yA0) от **Glo Academy**
-- [Git. Большой практический выпуск](https://www.youtube.com/watch?v=SEvR78OhGtw) от **Артема Матяшова**
-- Просто и понятно [Что такое GIT, GITHUB и BITBUCKET?](https://www.youtube.com/watch?v=ykyERvz17LE) от **АйТиБороды**
+[![Git: как правильно использовать?](http://img.youtube.com/vi/adHqyxdWWRM/0.jpg)](https://www.youtube.com/watch?v=adHqyxdWWRM)  
+[Что такое Git? Зачем он нужен?](https://www.youtube.com/watch?v=adHqyxdWWRM)
+
+
+
+[![Git: как правильно использовать?](http://img.youtube.com/vi/QjT4HuF9gJs/0.jpg)](https://www.youtube.com/watch?v=QjT4HuF9gJs)  
+[Git: как правильно использовать?](https://www.youtube.com/watch?v=QjT4HuF9gJs)
+
+---
+
+[![GitHub для самых маленьких](http://img.youtube.com/vi/Rke_Z1-nvUM/0.jpg)](https://www.youtube.com/playlist?list=PL3LQJkGQtzc5rDeb7FjACNb6sOW300yA0)  
+Плейлист [GitHub для самых маленьких](https://www.youtube.com/playlist?list=PL3LQJkGQtzc5rDeb7FjACNb6sOW300yA0) от **Glo Academy**
+
+---
+
+[![Git. Большой практический выпуск](http://img.youtube.com/vi/SEvR78OhGtw/0.jpg)](https://www.youtube.com/watch?v=SEvR78OhGtw)  
+[Git. Большой практический выпуск](https://www.youtube.com/watch?v=SEvR78OhGtw) от **Артема Матяшова**
+
+---
+
+[![Что такое GIT, GITHUB и BITBUCKET?](http://img.youtube.com/vi/ykyERvz17LE/0.jpg)](https://www.youtube.com/watch?v=ykyERvz17LE)  
+Просто и понятно [Что такое GIT, GITHUB и BITBUCKET?](https://www.youtube.com/watch?v=ykyERvz17LE) от **АйТиБороды**
+
+---
+
+[![Git и GitHub Курс Для Новичков](http://img.youtube.com/vi/zZBiln_2FhM/0.jpg)](https://www.youtube.com/watch?v=zZBiln_2FhM)  
+[Git и GitHub Курс Для Новичков](https://www.youtube.com/watch?v=zZBiln_2FhM) от **Владилена Минина**
 
 ---
 
@@ -47,8 +68,25 @@
 
 <!-- -->
 
+- Samuel Faure (оригинал): [How to learn Git slowly](https://dev.to/samuelfaure/how-to-learn-git-slowly-38fa)
+- Samuel Faure (перевод): [Как освоить Git медленно, но верно](https://techrocks.ru/2021/07/20/how-to-master-git-roadmap/)
+
+<!-- -->
+
+- tproger: [Git и GitHub: что это такое и в чём разница](https://tproger.ru/translations/difference-between-git-and-github/)
+
+<!-- -->
+
 - Sean Patterson (оригинал): [Developer Tip: Keep Your Commits "Atomic"](https://www.freshconsulting.com/insights/blog/atomic-commits/)
 - Sean Patterson (перевод): [Совет разработчика: делайте "атомарные коммиты"](https://github.com/tsergeytovarov/htmlacademy-basic-additional-material/blob/master/articles/%D0%B0%D1%82%D0%BE%D0%BC%D0%B0%D1%80%D0%BD%D1%8B%D0%B5-%D0%BA%D0%BE%D0%BC%D0%BC%D0%B8%D1%82%D1%8B/article.md)
+
+---
+
+### UI клиенты ###
+
+- [GitHub Desktop](https://desktop.github.com/)
+- [GitKraken](https://www.gitkraken.com/)
+- [SourceTree](https://www.sourcetreeapp.com/)
 
 ---
 
@@ -112,6 +150,8 @@
 
 ### Полезности ###
 
+- [Learning Lab](https://lab.github.com/)
+- [Чёрт побери, Git!?!](https://dangitgit.com/ru)
 - [Работа и настройка GitHub Desktop](https://betacode.net/10283/use-github-with-github-desktop)
 - [Более одного аккаунта на GitHub с одной машины](ssh_key.md)
 - [Шпаргалка по синтаксису markdown для GitHub](markdown.md)
