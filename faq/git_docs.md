@@ -1,8 +1,11 @@
 # Git и GitHub #
 
-![logo](https://git-scm.com/images/logo@2x.png)
-
 ## Дорожная карта (roadmap) изучения [Git](https://git-scm.com/) ##
+
+<img src="https://cdn.iconscout.com/icon/free/png-256/git-225996.png" alt="git" width="100">
+<img src="https://cdn.iconscout.com/icon/free/png-256/github-1521500-1288242.png" alt="gihub" width="100">
+<img src="https://cdn.iconscout.com/icon/free/png-256/bitbucket-226075.png" alt="bitbucket" width="100">
+<img src="https://cdn.iconscout.com/icon/free/png-256/gitlab-282507.png" alt="gitlab" width="100">
 
 ### С чего начать ###
 
