@@ -7,18 +7,20 @@
 ### С чего начать ###
 
 - [Официальная документация](https://git-scm.com/)
-- Официальный учебник на русском (свободный доступ):
-
-| [онлайн](https://git-scm.com/book/ru/v2) | [скачать](https://github.com/progit/progit2-ru/releases) |
-|     :---:    |     :---:      |
-| [<img src="https://git-scm.com/images/progit2.png" width="50">](https://git-scm.com/book/ru/v2)   | [<img src="https://git-scm.com/images/pdf.png" width="50">](https://github.com/progit/progit2-ru/releases/download/2.1.93/progit.pdf) [<img src="https://git-scm.com/images/epub.png" width="50">](https://github.com/progit/progit2-ru/releases/download/2.1.93/progit.epub) [<img src="https://git-scm.com/images/mobi.png" width="50">](https://github.com/progit/progit2-ru/releases/download/2.1.93/progit.mobi)     |
-
-<!-- -->
-
 - [Официальная шпаргалка](https://training.github.com/downloads/ru/github-git-cheat-sheet/) от GitHub (на русском)
 - [Git How To](https://githowto.com/ru) - интерактивный тур (на русском)
 - [LearnGitBranching](https://learngitbranching.js.org/?locale=ru_RU) - интерактивный тренажёр (на русском)
 - [Git: наглядная справка](https://marklodato.github.io/visual-git-guide/index-ru.html) - (на русском)
+
+---
+
+### Официальный учебник ###
+
+(на русском языке, свободный доступ):
+
+| [онлайн](https://git-scm.com/book/ru/v2) | [скачать](https://github.com/progit/progit2-ru/releases) |
+|     :---:    |     :---:      |
+| [<img src="https://git-scm.com/images/progit2.png" width="50">](https://git-scm.com/book/ru/v2)   | [<img src="https://git-scm.com/images/pdf.png" width="50">](https://github.com/progit/progit2-ru/releases/download/2.1.93/progit.pdf) [<img src="https://git-scm.com/images/epub.png" width="50">](https://github.com/progit/progit2-ru/releases/download/2.1.93/progit.epub) [<img src="https://git-scm.com/images/mobi.png" width="50">](https://github.com/progit/progit2-ru/releases/download/2.1.93/progit.mobi)     |
 
 ---
 
