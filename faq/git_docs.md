@@ -95,6 +95,10 @@
 
 ### UI клиенты ###
 
+[<img src="https://icon-library.com/images/github-icon-png/github-icon-png-28.jpg" alt="GitHub Desktop" width="100">](https://desktop.github.com/)
+[<img src="https://logodix.com/logo/1716400.png" alt="GitKraken" width="100">](https://www.gitkraken.com/)
+[<img src="https://cdn.iconscout.com/icon/free/png-256/sourcetree-282538.png" alt="SourceTree" width="100">](https://www.sourcetreeapp.com/)
+
 - [GitHub Desktop](https://desktop.github.com/)
 - [GitKraken](https://www.gitkraken.com/)
 - [SourceTree](https://www.sourcetreeapp.com/)
