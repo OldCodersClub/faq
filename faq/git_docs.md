@@ -154,4 +154,5 @@
 - [Чёрт побери, Git!?!](https://dangitgit.com/ru)
 - [Работа и настройка GitHub Desktop](https://betacode.net/10283/use-github-with-github-desktop)
 - [Более одного аккаунта на GitHub с одной машины](ssh_key.md)
+- [Гитхаб как хостинг](https://htmlacademy.ru/blog/boost/tools/github-as-hosting)
 - [Шпаргалка по синтаксису markdown для GitHub](markdown.md)
