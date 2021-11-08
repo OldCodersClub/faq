@@ -4,18 +4,18 @@
 
 ### С чего начать ###
 
-- [Официальная документация](https://git-scm.com/)
-  
-  
+* [Официальная документация](https://git-scm.com/)  
+
+
 - Официальный учебник на русском (свободный доступ):
   - [онлайн](https://git-scm.com/book/ru/v2)  
 [<img src="https://git-scm.com/images/progit2.png" width="50">](https://git-scm.com/book/ru/v2)
   - [скачать](https://github.com/progit/progit2-ru/releases) (в разных форматах, всегда свежая версия)  
 [<img src="https://git-scm.com/images/pdf.png" width="50">](https://github.com/progit/progit2-ru/releases/download/2.1.93/progit.pdf)
 [<img src="https://git-scm.com/images/epub.png" width="50">](https://github.com/progit/progit2-ru/releases/download/2.1.93/progit.epub)
-[<img src="https://git-scm.com/images/mobi.png" width="50">](https://github.com/progit/progit2-ru/releases/download/2.1.93/progit.mobi)
-  
-  
+[<img src="https://git-scm.com/images/mobi.png" width="50">](https://github.com/progit/progit2-ru/releases/download/2.1.93/progit.mobi)  
+
+
 - [Официальная шпаргалка](https://training.github.com/downloads/ru/github-git-cheat-sheet/) от GitHub (на русском)
 - [Git How To](https://githowto.com/ru) - интерактивный тур (на русском)
 - [LearnGitBranching](https://learngitbranching.js.org/?locale=ru_RU) - интерактивный тренажёр (на русском)
@@ -24,11 +24,11 @@
 
 ### Видео уроки ###
 
-- Особое мнение от уважаемого **_всё ещё_ Сергея Нмчинского**:  
-  - [Что такое Git? Зачем он нужен?](https://www.youtube.com/watch?v=adHqyxdWWRM)  
-  - [Git: как правильно использовать?](https://www.youtube.com/watch?v=QjT4HuF9gJs)
-  
-  
+- Особое мнение от уважаемого **_всё ещё_ Сергея Нмчинского**:
+  - [Что такое Git? Зачем он нужен?](https://www.youtube.com/watch?v=adHqyxdWWRM)
+  - [Git: как правильно использовать?](https://www.youtube.com/watch?v=QjT4HuF9gJs)  
+
+
 - Плейлист [GitHub для самых маленьких](https://www.youtube.com/playlist?list=PL3LQJkGQtzc5rDeb7FjACNb6sOW300yA0) от **Glo Academy**
 - [Git. Большой практический выпуск](https://www.youtube.com/watch?v=SEvR78OhGtw) от **Артема Матяшова**
 - Просто и понятно [Что такое GIT, GITHUB и BITBUCKET?](https://www.youtube.com/watch?v=ykyERvz17LE) от **АйТиБороды**
@@ -40,9 +40,9 @@
 - Git для новичков:
   - [часть 1](https://habr.com/ru/post/541258/)
   - [часть 2](https://habr.com/ru/post/542616/)
-- Хэштеги на Хабре: [#Git](https://habr.com/ru/hub/git/) и [#GitHub](https://habr.com/ru/hub/github/)
-  
-  
+- Хэштеги на Хабре: [#Git](https://habr.com/ru/hub/git/) и [#GitHub](https://habr.com/ru/hub/github/)  
+
+
 - Sean Patterson (оригинал): [Developer Tip: Keep Your Commits "Atomic"](https://www.freshconsulting.com/insights/blog/atomic-commits/)
 - Sean Patterson (перевод): [Совет разработчика: делайте "атомарные коммиты"](https://github.com/tsergeytovarov/htmlacademy-basic-additional-material/blob/master/articles/%D0%B0%D1%82%D0%BE%D0%BC%D0%B0%D1%80%D0%BD%D1%8B%D0%B5-%D0%BA%D0%BE%D0%BC%D0%BC%D0%B8%D1%82%D1%8B/article.md)
 
@@ -50,16 +50,14 @@
 
 ### Именование коммитов ###
 
-- [Соглашение о коммитах](https://www.conventionalcommits.org/ru/v1.0.0/)
-  
-  
+- [Соглашение о коммитах](https://www.conventionalcommits.org/ru/v1.0.0/)  
+
+
 - Chris Beams (оригинал): [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
-- Chris Beams (перевод): [Как правильно составлять описания коммитов и почему это важно](https://ru.hexlet.io/blog/posts/git-commit-message)
+- Chris Beams (перевод): [Как правильно составлять описания коммитов и почему это важно](https://ru.hexlet.io/blog/posts/git-commit-message)  
+<img src="https://hsto.org/r/w1560/webt/du/md/nk/dumdnkfpfqgbzsuibvdsb1b1lnk.png" alt="git-commit-message" width="600">  
 
 
-<img src="https://hsto.org/r/w1560/webt/du/md/nk/dumdnkfpfqgbzsuibvdsb1b1lnk.png" alt="git-commit-message" width="600">
-  
-  
 - Шпаргалка: [Именование коммитов](https://gist.github.com/bibendi/7941823)
 - Ещё одна: [Порядок именования коммитов в Git](https://drbrain.ru/articles/git-commit-message/)
 - Статья: [Стиль именования коммитов](https://habr.com/ru/post/183646/)
@@ -69,38 +67,32 @@
 
 ### Модели ветвления ###
 
-- Шпаргалка [Git Flow](https://danielkummer.github.io/git-flow-cheatsheet/index.ru_RU.html)
-  
-  
+- Шпаргалка [Git Flow](https://danielkummer.github.io/git-flow-cheatsheet/index.ru_RU.html)  
+
+
 - Vincent Driessen (оригинал - обновлённая версия): [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
-- Vincent Driessen (перевод): [Удачная модель ветвления для Git](https://habr.com/ru/post/106912/)
+- Vincent Driessen (перевод): [Удачная модель ветвления для Git](https://habr.com/ru/post/106912/)  
+<img src="https://nvie.com/img/git-model@2x.png" alt="git-branching-model" width="600">  
 
 
-<img src="https://nvie.com/img/git-model@2x.png" alt="git-branching-model" width="600">
-  
-  
 - George Stocker (оригинал): [Please stop recommending Git Flow!](https://georgestocker.com/2020/03/04/please-stop-recommending-git-flow/)
-- George Stocker (перевод): [Пожалуйста, перестаньте рекомендовать Git Flow](https://habr.com/ru/company/flant/blog/491320/)
+- George Stocker (перевод): [Пожалуйста, перестаньте рекомендовать Git Flow](https://habr.com/ru/company/flant/blog/491320/)  
+<img src="https://hsto.org/r/w1560/webt/hm/6u/c7/hm6uc78dqqn8flm6oqdqttpw7tu.png" alt="stop-recommending-git-flow" width="600">  
 
 
-<img src="https://hsto.org/r/w1560/webt/hm/6u/c7/hm6uc78dqqn8flm6oqdqttpw7tu.png" alt="stop-recommending-git-flow" width="600">
-  
-  
 - GitHub Guides (оригинал): [GitHub Flow](https://guides.github.com/introduction/flow/)
-- GitHub Guides (перевод): [GitHub Flow](https://habr.com/ru/post/346066/)
+- GitHub Guides (перевод): [GitHub Flow](https://habr.com/ru/post/346066/)  
+<img src="https://hsto.org/r/w1560/webt/gd/aq/ck/gdaqckxk1kw7q2oxheywphnkxey.png" alt="GitHub Flow" width="600">  
 
 
-<img src="https://hsto.org/r/w1560/webt/gd/aq/ck/gdaqckxk1kw7q2oxheywphnkxey.png" alt="GitHub Flow" width="600">
-  
-  
 - Scott Chacon (оригинал): [GitHub Flow](http://scottchacon.com/2011/08/31/github-flow.html)
-- Scott Chacon (перевод): [GitHub Flow: рабочий процесс Гитхаба](https://habr.com/ru/post/189046/)
-  
-  
+- Scott Chacon (перевод): [GitHub Flow: рабочий процесс Гитхаба](https://habr.com/ru/post/189046/)  
+
+
 - Sytse Sijbrandij (оригинал): [What is GitLab Flow?](https://about.gitlab.com/topics/version-control/what-is-gitlab-flow/)
-- Sytse Sijbrandij (перевод): [GitLab Flow](https://habr.com/ru/company/softmart/blog/316686/)
-  
-  
+- Sytse Sijbrandij (перевод): [GitLab Flow](https://habr.com/ru/company/softmart/blog/316686/)  
+
+
 - Статья: [Про Git, Github и Gitflow простыми словами](https://proglib.io/p/git-github-gitflow)
 - Stackoverflow: [Правильное именование веток](https://ru.stackoverflow.com/questions/623355/%d0%9f%d1%80%d0%b0%d0%b2%d0%b8%d0%bb%d1%8c%d0%bd%d0%be%d0%b5-%d0%b8%d0%bc%d0%b5%d0%bd%d0%be%d0%b2%d0%b0%d0%bd%d0%b8%d0%b5-%d0%b2%d0%b5%d1%82%d0%be%d0%ba)
 
