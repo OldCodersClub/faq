@@ -161,6 +161,8 @@
 
 ### Полезности ###
 
+- [Awesome Git](https://github.com/dictcp/awesome-git)
+- [GitIgnore Collection](https://github.com/github/gitignore)
 - [Learning Lab](https://lab.github.com/)
 - [Чёрт побери, Git!?!](https://dangitgit.com/ru)
 - [Работа и настройка GitHub Desktop](https://betacode.net/10283/use-github-with-github-desktop)
