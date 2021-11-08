@@ -48,7 +48,7 @@
 - Chris Beams (перевод): [Как правильно составлять описания коммитов и почему это важно](https://ru.hexlet.io/blog/posts/git-commit-message)
 
 
-<img src="https://hsto.org/r/w1560/webt/du/md/nk/dumdnkfpfqgbzsuibvdsb1b1lnk.png" alt="git-commit-message" width="600" style="display: block; margin: 0 auto">
+<img src="https://hsto.org/r/w1560/webt/du/md/nk/dumdnkfpfqgbzsuibvdsb1b1lnk.png" alt="git-commit-message" width="600">
 
 
 - Шпаргалка: [Именование коммитов](https://gist.github.com/bibendi/7941823)
@@ -65,21 +65,21 @@
 - Vincent Driessen (перевод): [Удачная модель ветвления для Git](https://habr.com/ru/post/106912/)
 
 
-<img src="https://nvie.com/img/git-model@2x.png" alt="git-branching-model" width="600" style="display: block; margin: 0 auto">
+<img src="https://nvie.com/img/git-model@2x.png" alt="git-branching-model" width="600">
 
 
 - George Stocker (оригинал): [Please stop recommending Git Flow!](https://georgestocker.com/2020/03/04/please-stop-recommending-git-flow/)
 - George Stocker (перевод): [Пожалуйста, перестаньте рекомендовать Git Flow](https://habr.com/ru/company/flant/blog/491320/)
 
 
-<img src="https://hsto.org/r/w1560/webt/hm/6u/c7/hm6uc78dqqn8flm6oqdqttpw7tu.png" alt="stop-recommending-git-flow" width="600" style="display: block; margin: 0 auto">
+<img src="https://hsto.org/r/w1560/webt/hm/6u/c7/hm6uc78dqqn8flm6oqdqttpw7tu.png" alt="stop-recommending-git-flow" width="600">
 
 
 - GitHub Guides (оригинал): [GitHub Flow](https://guides.github.com/introduction/flow/)
 - GitHub Guides (перевод): [GitHub Flow](https://habr.com/ru/post/346066/)
 
 
-<img src="https://hsto.org/r/w1560/webt/gd/aq/ck/gdaqckxk1kw7q2oxheywphnkxey.png" alt="GitHub Flow" width="600" style="display: block; margin: 0 auto">
+<img src="https://hsto.org/r/w1560/webt/gd/aq/ck/gdaqckxk1kw7q2oxheywphnkxey.png" alt="GitHub Flow" width="600">
 
 
 - Scott Chacon (оригинал): [GitHub Flow](http://scottchacon.com/2011/08/31/github-flow.html)
