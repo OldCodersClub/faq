@@ -18,6 +18,7 @@
 - [Официальная шпаргалка](https://training.github.com/downloads/ru/github-git-cheat-sheet/) от GitHub (на русском)
 - [Git How To](https://githowto.com/ru) - интерактивный тур (на русском)
 - [LearnGitBranching](https://learngitbranching.js.org/?locale=ru_RU) - интерактивный тренажёр (на русском)
+- [Git: наглядная справка](https://marklodato.github.io/visual-git-guide/index-ru.html) - (на русском)
 
 ---
 
