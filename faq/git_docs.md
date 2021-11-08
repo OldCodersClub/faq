@@ -87,9 +87,15 @@
 - desdelinux: [GitHub vs GitLab: преимущества и недостатки этих платформ](https://blog.desdelinux.net/ru/github-vs-gitlab/)
 - technodor: [GitHub vs GitLab vs Bitbucket](https://www.technodor.info/2020/02/github-git-gitlab-bitbucket.html)
 
-| [GitHub](https://github.com/) | [GitLab](https://gitlab.com/) | [BitBucket](https://bitbucket.org/) |
-| :---: | :---: | :---: |
-| [<img src="https://cdn.iconscout.com/icon/free/png-256/github-1521500-1288242.png" width="50">](https://github.com/) | [<img src="https://cdn.iconscout.com/icon/free/png-256/gitlab-282507.png" width="50">](https://gitlab.com//) | [<img src="https://cdn.iconscout.com/icon/free/png-256/bitbucket-226075.png" width="50">](https://bitbucket.org/) |
+<!-- -->
+
+[<img src="https://cdn.iconscout.com/icon/free/png-256/github-1521500-1288242.png" width="100">](https://github.com/)
+[<img src="https://cdn.iconscout.com/icon/free/png-256/gitlab-282507.png" width="100">](https://gitlab.com/)
+[<img src="https://cdn.iconscout.com/icon/free/png-256/bitbucket-226075.png" width="100">](https://bitbucket.org/)
+
+- [GitHub](https://github.com/)
+- [GitLab](https://gitlab.com/)
+- [BitBucket](https://bitbucket.org/)
 
 ---
 
