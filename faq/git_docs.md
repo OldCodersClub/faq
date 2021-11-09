@@ -13,11 +13,13 @@
 
 ### С чего начать ###
 
-- [Официальная документация](https://git-scm.com/)
+- [Официальный сайт](https://git-scm.com/)
+- [Официальная документация](https://git-scm.com/docs)
 - [Официальная шпаргалка](https://training.github.com/downloads/ru/github-git-cheat-sheet/) от GitHub (на русском)
 - [Git How To](https://githowto.com/ru) - интерактивный тур (на русском)
 - [LearnGitBranching](https://learngitbranching.js.org/?locale=ru_RU) - интерактивный тренажёр (на русском)
 - [Git: наглядная справка](https://marklodato.github.io/visual-git-guide/index-ru.html) - (на русском)
+- [Visual Git Cheat Sheet](https://ndpsoftware.com/git-cheatsheet.html) - (Eng)
 
 ---
 
