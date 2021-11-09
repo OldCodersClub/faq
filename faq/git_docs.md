@@ -122,16 +122,19 @@
 
 ### Именование коммитов ###
 
-- [Соглашение о коммитах](https://www.conventionalcommits.org/ru/v1.0.0/)
+- [Соглашение о коммитах (Conventional Commits)](https://www.conventionalcommits.org/ru/v1.0.0/) (Ru)
 
 <!-- -->
 
 - Chris Beams (оригинал): [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
-- Chris Beams (перевод): [Как правильно составлять описания коммитов и почему это важно](https://ru.hexlet.io/blog/posts/git-commit-message)  
+- Chris Beams (перевод): [Как следует писать комментарии к коммитам](https://habr.com/ru/post/416887/)  
+- Chris Beams (ещё один перевод): [Как правильно составлять описания коммитов и почему это важно](https://ru.hexlet.io/blog/posts/git-commit-message)  
 <img src="https://hsto.org/r/w1560/webt/du/md/nk/dumdnkfpfqgbzsuibvdsb1b1lnk.png" alt="git-commit-message" width="600">
 
 <!-- -->
 
+- Блог компании Яндекс: [Применяем стандарт Conventional Commits](https://habr.com/ru/company/yandex/blog/431432/)
+- [Онлайн конфигуратор правильных коммитов](https://commitlint.io/)
 - Шпаргалка: [Именование коммитов](https://gist.github.com/bibendi/7941823)
 - Ещё одна: [Порядок именования коммитов в Git](https://drbrain.ru/articles/git-commit-message/)
 - Статья: [Стиль именования коммитов](https://habr.com/ru/post/183646/)
@@ -183,6 +186,7 @@
 - [Awesome Git](https://github.com/dictcp/awesome-git)
 - [GitIgnore Collection](https://github.com/github/gitignore)
 - [Learning Lab](https://lab.github.com/)
+- [GitBestPractices](https://sethrobertson.github.io/GitBestPractices/)
 - [Чёрт побери, Git!?!](https://dangitgit.com/ru)
 - [Работа и настройка GitHub Desktop](https://betacode.net/10283/use-github-with-github-desktop)
 - [Более одного аккаунта на GitHub с одной машины](ssh_key.md)
