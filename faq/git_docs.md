@@ -189,6 +189,19 @@
 - [Рабочий процесс Gitflow Workflow](https://www.atlassian.com/ru/git/tutorials/comparing-workflows/gitflow-workflow)
 - [Рабочий процесс Forking Workflow](https://www.atlassian.com/ru/git/tutorials/comparing-workflows/forking-workflow) (En)
 
+<!-- -->
+
+Подходы к управлению ветками в системах контроля версий (Мартин Фаулер):
+
+- Оригинал: [Patterns for Managing Source Code Branches](https://martinfowler.com/articles/branching-patterns.html) (En)
+
+<!-- -->
+
+- Перевод: [Часть 1](https://blog.noveogroup.ru/2020/05/podhody-k-upravleniju-vetkami-v-sistem/)
+- Перевод: [Часть 2](https://blog.noveogroup.ru/2020/07/podhody-k-upravleniju-vetkami-2/)
+- Перевод: [Часть 3](https://blog.noveogroup.ru/2020/11/podhody-k-upravleniju-vetkami-3/)
+- Перевод: [Часть 4](https://blog.noveogroup.ru/2020/12/podhody-k-upravleniju-vetkami-v-sistem-2/)
+
 ---
 
 ### Полезности ###
