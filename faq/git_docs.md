@@ -106,6 +106,10 @@
 - [GitLab](https://gitlab.com/)
 - [BitBucket](https://bitbucket.org/)
 
+<!-- -->
+
+- [Public Git hosting sites](https://git.wiki.kernel.org/index.php/GitHosting)
+
 ---
 
 ### UI клиенты ###
