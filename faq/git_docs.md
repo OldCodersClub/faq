@@ -183,6 +183,12 @@
 - Статья: [Про Git, Github и Gitflow простыми словами](https://proglib.io/p/git-github-gitflow)
 - Stackoverflow: [Правильное именование веток](https://ru.stackoverflow.com/questions/623355/%d0%9f%d1%80%d0%b0%d0%b2%d0%b8%d0%bb%d1%8c%d0%bd%d0%be%d0%b5-%d0%b8%d0%bc%d0%b5%d0%bd%d0%be%d0%b2%d0%b0%d0%bd%d0%b8%d0%b5-%d0%b2%d0%b5%d1%82%d0%be%d0%ba)
 
+Сравнение процессов (atlassian):
+- [Централизованный рабочий процесс](https://www.atlassian.com/ru/git/tutorials/comparing-workflows)
+- [Рабочий процесс с функциональными ветками](https://www.atlassian.com/ru/git/tutorials/comparing-workflows/feature-branch-workflow)
+- [Рабочий процесс Gitflow Workflow](https://www.atlassian.com/ru/git/tutorials/comparing-workflows/gitflow-workflow)
+- [Рабочий процесс Forking Workflow](https://www.atlassian.com/ru/git/tutorials/comparing-workflows/forking-workflow) (En)
+
 ---
 
 ### Полезности ###
