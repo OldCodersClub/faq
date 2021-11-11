@@ -19,7 +19,8 @@
 - [Git How To](https://githowto.com/ru) - интерактивный тур (на русском)
 - [LearnGitBranching](https://learngitbranching.js.org/?locale=ru_RU) - интерактивный тренажёр (на русском)
 - [Git: наглядная справка](https://marklodato.github.io/visual-git-guide/index-ru.html) - (на русском)
-- [Visual Git Cheat Sheet](https://ndpsoftware.com/git-cheatsheet.html) - (Eng)
+- [Visual Git Cheat Sheet](https://ndpsoftware.com/git-cheatsheet.html) - (En)
+- [Introduction to GitHub](https://lab.github.com/githubtraining/introduction-to-github) - интерактивный курс (En)
 
 ---
 
