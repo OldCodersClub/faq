@@ -228,4 +228,6 @@
 - [Гитхаб как хостинг](https://htmlacademy.ru/blog/boost/tools/github-as-hosting)
 - [Кастомизация профиля GitHub](https://habr.com/ru/post/532248/)
 - [Awesome GitHub Profile README](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+- [GitHub Profile Readme Generator](https://arturssmirnovs.github.io/github-profile-readme-generator/)
+- [Octokit](https://github.com/octokit) - Official clients for the GitHub API
 - [Шпаргалка по синтаксису markdown для GitHub](markdown.md)
