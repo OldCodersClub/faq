@@ -220,6 +220,7 @@
 - [GitIgnore Collection](https://github.com/github/gitignore)
 - [Learning Lab](https://lab.github.com/)
 - [GitBestPractices](https://sethrobertson.github.io/GitBestPractices/)
+- [GitHub CLI](https://cli.github.com/) - интерфейс GitHub в терминале
 - [Семантическое Версионирование 2.0.0](https://gist.github.com/rodnaxel/d58dbe74e225080f5937a2915ffc7131)
 - [Чёрт побери, Git!?!](https://dangitgit.com/ru)
 - [Работа и настройка GitHub Desktop](https://betacode.net/10283/use-github-with-github-desktop)
