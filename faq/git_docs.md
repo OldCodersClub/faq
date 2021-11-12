@@ -55,6 +55,11 @@
 
 ---
 
+[![GitHub для самых маленьких](http://img.youtube.com/vi/ulWHDySzg0k/0.jpg)](https://www.youtube.com/watch?v=ulWHDySzg0k)  
+[Git Live: просто о сложном](https://www.youtube.com/watch?v=ulWHDySzg0k) от **Перейти в АйТи**
+
+---
+
 [![Git. Большой практический выпуск](http://img.youtube.com/vi/SEvR78OhGtw/0.jpg)](https://www.youtube.com/watch?v=SEvR78OhGtw)  
 [Git. Большой практический выпуск](https://www.youtube.com/watch?v=SEvR78OhGtw) от **Артема Матяшова**
 
