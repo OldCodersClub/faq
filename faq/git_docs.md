@@ -234,5 +234,8 @@
 - [Кастомизация профиля GitHub](https://habr.com/ru/post/532248/)
 - [Awesome GitHub Profile README](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 - [GitHub Profile Readme Generator](https://arturssmirnovs.github.io/github-profile-readme-generator/)
+- [Сногсшибательный README для GitHub-профиля](https://techrocks.ru/2021/01/23/github-profile-readme-2/)
 - [Octokit](https://github.com/octokit) - Official clients for the GitHub API
+- [Как правильно оформить Open Source проект](https://habr.com/ru/post/341166/)
+- [Как прокачать свой open-source проект, используя бейджики качества кода](https://stfalcon.com/ru/blog/post/improve-your-code-with-badges)
 - [Шпаргалка по синтаксису markdown для GitHub](markdown.md)
