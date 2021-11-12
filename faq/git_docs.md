@@ -182,6 +182,10 @@
 
 <!-- -->
 
+- Spencer Christensen: [Git Workflows That Work](https://www.endpointdev.com/blog/2014/05/git-workflows-that-work/) (En)
+
+<!-- -->
+
 - Статья: [Про Git, Github и Gitflow простыми словами](https://proglib.io/p/git-github-gitflow)
 - Stackoverflow: [Правильное именование веток](https://ru.stackoverflow.com/questions/623355/%d0%9f%d1%80%d0%b0%d0%b2%d0%b8%d0%bb%d1%8c%d0%bd%d0%be%d0%b5-%d0%b8%d0%bc%d0%b5%d0%bd%d0%be%d0%b2%d0%b0%d0%bd%d0%b8%d0%b5-%d0%b2%d0%b5%d1%82%d0%be%d0%ba)
 
@@ -203,6 +207,10 @@
 - Перевод: [Часть 2](https://blog.noveogroup.ru/2020/07/podhody-k-upravleniju-vetkami-2/)
 - Перевод: [Часть 3](https://blog.noveogroup.ru/2020/11/podhody-k-upravleniju-vetkami-3/)
 - Перевод: [Часть 4](https://blog.noveogroup.ru/2020/12/podhody-k-upravleniju-vetkami-v-sistem-2/)
+
+<!-- -->
+
+- Antida software: [Рабочий пример модели ветвления](https://github.com/antidasoftware/git-workflow)
 
 ---
 
