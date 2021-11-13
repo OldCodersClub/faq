@@ -239,3 +239,8 @@
 - [Как правильно оформить Open Source проект](https://habr.com/ru/post/341166/)
 - [Как прокачать свой open-source проект, используя бейджики качества кода](https://stfalcon.com/ru/blog/post/improve-your-code-with-badges)
 - [Шпаргалка по синтаксису markdown для GitHub](markdown.md)
+
+<!-- -->
+
+- Supritha Ravishankar (оригинал): [How to have an awesome GitHub profile ?](https://dev.to/supritha/how-to-have-an-awesome-github-profile-1969)
+- Supritha Ravishankar (перевод): [Как создать гиперкрутой аккаунт GitHub?](https://habr.com/ru/sandbox/156010/)
