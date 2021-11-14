@@ -100,11 +100,6 @@
 
 ### Git хостинги ###
 
-- desdelinux: [GitHub vs GitLab: преимущества и недостатки этих платформ](https://blog.desdelinux.net/ru/github-vs-gitlab/)
-- technodor: [GitHub vs GitLab vs Bitbucket](https://www.technodor.info/2020/02/github-git-gitlab-bitbucket.html)
-
-<!-- -->
-
 [<img src="https://cdn.iconscout.com/icon/free/png-256/github-1521500-1288242.png" width="100">](https://github.com/)
 [<img src="https://cdn.iconscout.com/icon/free/png-256/gitlab-282507.png" width="100">](https://gitlab.com/)
 [<img src="https://cdn.iconscout.com/icon/free/png-256/bitbucket-226075.png" width="100">](https://bitbucket.org/)
@@ -116,6 +111,11 @@
 <!-- -->
 
 - [Public Git hosting sites](https://git.wiki.kernel.org/index.php/GitHosting)
+
+<!-- -->
+
+- desdelinux: [GitHub vs GitLab: преимущества и недостатки этих платформ](https://blog.desdelinux.net/ru/github-vs-gitlab/)
+- technodor: [GitHub vs GitLab vs Bitbucket](https://www.technodor.info/2020/02/github-git-gitlab-bitbucket.html)
 
 ---
 
