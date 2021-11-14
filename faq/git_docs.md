@@ -98,8 +98,17 @@
 
 <!-- -->
 
+- Max Stern: [12 потрясающих возможностей GitHub](https://javarush.ru/groups/posts/1820-12-potrjasajujshikh-vozmozhnostey-github)
+
+<!-- -->
+
 - Sean Patterson (оригинал): [Developer Tip: Keep Your Commits "Atomic"](https://www.freshconsulting.com/insights/blog/atomic-commits/)
 - Sean Patterson (перевод): [Совет разработчика: делайте "атомарные коммиты"](https://github.com/tsergeytovarov/htmlacademy-basic-additional-material/blob/master/articles/%D0%B0%D1%82%D0%BE%D0%BC%D0%B0%D1%80%D0%BD%D1%8B%D0%B5-%D0%BA%D0%BE%D0%BC%D0%BC%D0%B8%D1%82%D1%8B/article.md)
+
+<!-- -->
+
+- Jeff Hale (En): [10 Git Commands You Should Know](https://towardsdatascience.com/10-git-commands-you-should-know-df54bea1595c)
+- Jeff Hale (En): [Learn Enough Git to be Useful](https://towardsdatascience.com/learn-enough-git-to-be-useful-281561eef959)
 
 ---
 
