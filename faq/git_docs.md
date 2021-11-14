@@ -230,6 +230,11 @@
 
 - Antida software: [Рабочий пример модели ветвления](https://github.com/antidasoftware/git-workflow)
 
+<!-- -->
+
+- Drew DeVault (оригинал): [git rebase in depth](https://git-rebase.io/)
+- Drew DeVault (перевод): [Подробнее о git rebase](https://radioprog.ru/post/1391)
+
 ---
 
 ### Полезности ###
