@@ -40,9 +40,8 @@
 Особое мнение от уважаемого **_всё ещё_ Сергея Нмчинского**:  
 
 
-[![Git: как правильно использовать?](http://img.youtube.com/vi/adHqyxdWWRM/0.jpg)](https://www.youtube.com/watch?v=adHqyxdWWRM)  
+[![Что такое Git? Зачем он нужен?](http://img.youtube.com/vi/adHqyxdWWRM/0.jpg)](https://www.youtube.com/watch?v=adHqyxdWWRM)  
 [Что такое Git? Зачем он нужен?](https://www.youtube.com/watch?v=adHqyxdWWRM)
-
 
 
 [![Git: как правильно использовать?](http://img.youtube.com/vi/QjT4HuF9gJs/0.jpg)](https://www.youtube.com/watch?v=QjT4HuF9gJs)  
@@ -55,7 +54,12 @@
 
 ---
 
-[![GitHub для самых маленьких](http://img.youtube.com/vi/ulWHDySzg0k/0.jpg)](https://www.youtube.com/watch?v=ulWHDySzg0k)  
+[![Скринкаст по Git](http://img.youtube.com/vi/W4hoc24K93E/0.jpg)](https://www.youtube.com/watch?v=QkY8lXZuiqQ&list=PLDyvV36pndZHkDRik6kKF6gSb0N0W995h)  
+Плейлист [Скринкаст по Git](https://www.youtube.com/watch?v=QkY8lXZuiqQ&list=PLDyvV36pndZHkDRik6kKF6gSb0N0W995h) от **JavaScript.ru**
+
+---
+
+[![Git Live: просто о сложном](http://img.youtube.com/vi/ulWHDySzg0k/0.jpg)](https://www.youtube.com/watch?v=ulWHDySzg0k)  
 [Git Live: просто о сложном](https://www.youtube.com/watch?v=ulWHDySzg0k) от **Перейти в АйТи**
 
 ---
@@ -67,11 +71,6 @@
 
 [![Что такое GIT, GITHUB и BITBUCKET?](http://img.youtube.com/vi/ykyERvz17LE/0.jpg)](https://www.youtube.com/watch?v=ykyERvz17LE)  
 Просто и понятно [Что такое GIT, GITHUB и BITBUCKET?](https://www.youtube.com/watch?v=ykyERvz17LE) от **АйТиБороды**
-
----
-
-[![Git и GitHub Курс Для Новичков](http://img.youtube.com/vi/zZBiln_2FhM/0.jpg)](https://www.youtube.com/watch?v=zZBiln_2FhM)  
-[Git и GitHub Курс Для Новичков](https://www.youtube.com/watch?v=zZBiln_2FhM) от **Владилена Минина**
 
 ---
 
