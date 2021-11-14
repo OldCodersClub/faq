@@ -93,6 +93,11 @@
 
 <!-- -->
 
+- Flavio Copes (оригинал): [A developer’s introduction to GitHub](https://www.freecodecamp.org/news/a-developers-introduction-to-github-1034fa55c0db/)
+- Flavio Copes (перевод): [Введение в GitHub от разработчика](https://techrocks.ru/2018/07/02/introduction-to-github/)
+
+<!-- -->
+
 - Sean Patterson (оригинал): [Developer Tip: Keep Your Commits "Atomic"](https://www.freshconsulting.com/insights/blog/atomic-commits/)
 - Sean Patterson (перевод): [Совет разработчика: делайте "атомарные коммиты"](https://github.com/tsergeytovarov/htmlacademy-basic-additional-material/blob/master/articles/%D0%B0%D1%82%D0%BE%D0%BC%D0%B0%D1%80%D0%BD%D1%8B%D0%B5-%D0%BA%D0%BE%D0%BC%D0%BC%D0%B8%D1%82%D1%8B/article.md)
 
