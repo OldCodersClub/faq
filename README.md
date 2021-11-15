@@ -4,7 +4,8 @@
 [<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/OldCodersClub/faq?logoColor=red&style=social">](https://github.com/OldCodersClub/faq/stargazers)
 [<img alt="GitHub watchers" src="https://img.shields.io/github/watchers/OldCodersClub/faq?logoColor=red&style=social">](https://github.com/OldCodersClub/faq/watchers)
 [<img alt="GitHub forks" src="https://img.shields.io/github/forks/OldCodersClub/faq?logoColor=red&style=social">](https://github.com/OldCodersClub/faq/network/members)
-
+[<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UChbHeEGkYqM2b1HdAhf4y1g?style=social">](https://www.youtube.com/channel/UChbHeEGkYqM2b1HdAhf4y1g/videos)
+[<img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UChbHeEGkYqM2b1HdAhf4y1g?style=social">](https://www.youtube.com/channel/UChbHeEGkYqM2b1HdAhf4y1g/about)
 
 # [Клуб дедов-программистов](https://t.me/oldcodersclub) FAQ
 
