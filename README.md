@@ -1,4 +1,4 @@
-[<img align='right' src="https://avatars.githubusercontent.com/u/92794071?s=200&v=4" width="180" alt="OldCodersClub">](https://github.com/OldCodersClub)
+[<img align='right' src="https://avatars.githubusercontent.com/u/92794071?s=200&v=4" width="160" alt="OldCodersClub">](https://github.com/OldCodersClub)
 
 
 [<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/OldCodersClub/faq?logoColor=red&style=social">](https://github.com/OldCodersClub/faq/stargazers)
