@@ -47,6 +47,10 @@
 [![Git: как правильно использовать?](http://img.youtube.com/vi/QjT4HuF9gJs/0.jpg)](https://www.youtube.com/watch?v=QjT4HuF9gJs)  
 [Git: как правильно использовать?](https://www.youtube.com/watch?v=QjT4HuF9gJs)
 
+
+[![Что такое GIT, GITHUB и BITBUCKET?](http://img.youtube.com/vi/ykyERvz17LE/0.jpg)](https://www.youtube.com/watch?v=ykyERvz17LE)  
+Просто и понятно [Что такое GIT, GITHUB и BITBUCKET?](https://www.youtube.com/watch?v=ykyERvz17LE) от **АйТиБороды**
+
 ---
 
 [![GitHub для самых маленьких](http://img.youtube.com/vi/Rke_Z1-nvUM/0.jpg)](https://www.youtube.com/playlist?list=PL3LQJkGQtzc5rDeb7FjACNb6sOW300yA0)  
@@ -66,11 +70,6 @@
 
 [![Git. Большой практический выпуск](http://img.youtube.com/vi/SEvR78OhGtw/0.jpg)](https://www.youtube.com/watch?v=SEvR78OhGtw)  
 [Git. Большой практический выпуск](https://www.youtube.com/watch?v=SEvR78OhGtw) от **Артема Матяшова**
-
----
-
-[![Что такое GIT, GITHUB и BITBUCKET?](http://img.youtube.com/vi/ykyERvz17LE/0.jpg)](https://www.youtube.com/watch?v=ykyERvz17LE)  
-Просто и понятно [Что такое GIT, GITHUB и BITBUCKET?](https://www.youtube.com/watch?v=ykyERvz17LE) от **АйТиБороды**
 
 ---
 
