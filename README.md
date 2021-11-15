@@ -1,3 +1,8 @@
+[<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/OldCodersClub/faq?logoColor=red&style=social">](https://github.com/OldCodersClub/faq/stargazers)
+[<img alt="GitHub watchers" src="https://img.shields.io/github/watchers/OldCodersClub/faq?logoColor=red&style=social">](https://github.com/OldCodersClub/faq/watchers)
+[<img alt="GitHub forks" src="https://img.shields.io/github/forks/OldCodersClub/faq?logoColor=red&style=social">](https://github.com/OldCodersClub/faq/network/members)
+
+
 [<img align='right' src="https://avatars.githubusercontent.com/u/92794071?s=200&v=4" width="135" alt="OldCodersClub">](https://github.com/OldCodersClub)
 
 
