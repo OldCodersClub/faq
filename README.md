@@ -1,6 +1,11 @@
+[<img align='right' src="https://avatars.githubusercontent.com/u/92794071?s=200&v=4" alt="OldCodersClub">](https://github.com/OldCodersClub)
+
+
 # [Клуб дедов-программистов](https://t.me/oldcodersclub) FAQ
 
 В этом репозитории находится полезная информация, собранная участниками чата.
+
+---
 
 ## Элементарный уровень
 
