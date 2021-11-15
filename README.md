@@ -1,4 +1,4 @@
-[<img align='right' src="https://avatars.githubusercontent.com/u/92794071?s=200&v=4" width="150" alt="OldCodersClub">](https://github.com/OldCodersClub)
+[<img align='right' src="https://avatars.githubusercontent.com/u/92794071?s=200&v=4" width="135" alt="OldCodersClub">](https://github.com/OldCodersClub)
 
 
 # [Клуб дедов-программистов](https://t.me/oldcodersclub) FAQ
