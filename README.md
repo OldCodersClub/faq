@@ -43,6 +43,7 @@
 - [Git и GitHub](faq/git_docs.md)
 - [Как мы учим английский язык](faq/English.md)
 
+---
 
 ## Как в 44 года стать программистом на Python. [Youtube канал](https://www.youtube.com/channel/UChbHeEGkYqM2b1HdAhf4y1g)
 
