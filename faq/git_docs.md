@@ -15,13 +15,15 @@
 
 - [Официальный сайт](https://git-scm.com/)
 - [Официальная документация](https://git-scm.com/docs)
-- [Официальная шпаргалка](https://training.github.com/downloads/ru/github-git-cheat-sheet/) от GitHub (на русском)
+- [Официальная шпаргалка](https://training.github.com/downloads/ru/github-git-cheat-sheet/) от **GitHub** (на русском)
 - [Git How To](https://githowto.com/ru) - интерактивный тур (на русском)
 - [LearnGitBranching](https://learngitbranching.js.org/?locale=ru_RU) - интерактивный тренажёр (на русском)
+- [Шпаргалка для LearnGitBranching](http://imnotgenius.com/git/) (на русском)
 - [Git: наглядная справка](https://marklodato.github.io/visual-git-guide/index-ru.html) - (на русском)
 - [Visual Git Cheat Sheet](https://ndpsoftware.com/git-cheatsheet.html) - (En)
 - [Introduction to GitHub](https://lab.github.com/githubtraining/introduction-to-github) - официальный интерактивный курс (En)
-- [Основы Git](https://cub-it.org/course/view.php?id=4) - бесплатный интерактивный курс (на русском) от Cub-it
+- [Основы Git](https://cub-it.org/course/view.php?id=4) - бесплатный интерактивный курс (на русском) от **Cub-it**
+- [Простое руководство по Git](http://rogerdudler.github.io/git-guide/index.ru.html) (на русском)
 
 ---
 
@@ -32,6 +34,19 @@
 | [онлайн](https://git-scm.com/book/ru/v2) | [скачать](https://github.com/progit/progit2-ru/releases) |
 |     :---:    |     :---:      |
 | [<img src="https://git-scm.com/images/progit2.png" width="50">](https://git-scm.com/book/ru/v2)   | [<img src="https://git-scm.com/images/pdf.png" width="50">](https://github.com/progit/progit2-ru/releases/download/2.1.93/progit.pdf) [<img src="https://git-scm.com/images/epub.png" width="50">](https://github.com/progit/progit2-ru/releases/download/2.1.93/progit.epub) [<img src="https://git-scm.com/images/mobi.png" width="50">](https://github.com/progit/progit2-ru/releases/download/2.1.93/progit.mobi)     |
+
+---
+
+### Шпаргалки ###
+
+- [python-tut.ru](http://python-tut.ru/media/pybb_upload/attachments/fc0ee768-5d71-4c1d-81cc-119a4774196f.pdf) (pdf)
+- [fktpm.ru](https://fktpm.ru/file/105-git.pdf) (pdf)
+- [Git Versioning Model](https://scribestools.readthedocs.io/en/latest/_downloads/dist-GitCheatSheet-21.pdf) (pdf)
+- [Github Cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf) (pdf)
+- [cheatography.com](https://cheatography.com/shirmik2003/cheat-sheets/git-cheat-sheet-by-samcollett-rus-wip/pdf/) (pdf)
+- [cheat-sheets.org](http://www.cheat-sheets.org/saved-copy/git-cheat-sheet.pdf) (pdf)
+- [jan-krueger.net](https://jan-krueger.net/wordpress/wp-content/uploads/2007/09/git-cheat-sheet.pdf) (pdf)
+- [git-pretty](https://tyapk.ru/storage/app/media/git/git-pretty.pdf) (pdf)
 
 ---
 
@@ -102,6 +117,10 @@
 
 - Sean Patterson (оригинал): [Developer Tip: Keep Your Commits "Atomic"](https://www.freshconsulting.com/insights/blog/atomic-commits/)
 - Sean Patterson (перевод): [Совет разработчика: делайте "атомарные коммиты"](https://github.com/tsergeytovarov/htmlacademy-basic-additional-material/blob/master/articles/%D0%B0%D1%82%D0%BE%D0%BC%D0%B0%D1%80%D0%BD%D1%8B%D0%B5-%D0%BA%D0%BE%D0%BC%D0%BC%D0%B8%D1%82%D1%8B/article.md)
+
+<!-- -->
+
+- Бен Линн (перевод): [Волшебство Git](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/ru/)
 
 <!-- -->
 
@@ -238,13 +257,19 @@
 
 ### Полезности ###
 
+- [Git Community Book](http://uleming.github.io/gitbook/index.html)
 - [Awesome Git](https://github.com/dictcp/awesome-git)
+- [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet)
 - [GitIgnore Collection](https://github.com/github/gitignore)
 - [Learning Lab](https://lab.github.com/)
+- [Git Immersion](https://gitimmersion.com/index.html)
 - [GitBestPractices](https://sethrobertson.github.io/GitBestPractices/)
 - [GitHub CLI](https://cli.github.com/) - интерфейс GitHub в терминале
 - [Семантическое Версионирование 2.0.0](https://gist.github.com/rodnaxel/d58dbe74e225080f5937a2915ffc7131)
 - [Чёрт побери, Git!?!](https://dangitgit.com/ru)
+- [Правила полета на Git](https://github.com/k88hudson/git-flight-rules/blob/master/README_ru.md)
+- [First aid Git](http://firstaidgit.ru/)
+- [Visualizing Git Concepts](https://onlywei.github.io/explain-git-with-d3/)
 - [Работа и настройка GitHub Desktop](https://betacode.net/10283/use-github-with-github-desktop)
 - [Более одного аккаунта на GitHub с одной машины](ssh_key.md)
 - [Гитхаб как хостинг](https://htmlacademy.ru/blog/boost/tools/github-as-hosting)
