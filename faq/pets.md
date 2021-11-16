@@ -10,10 +10,11 @@
 
 ### Видео ###
 
-[![Pets 2021](http://img.youtube.com/vi/0ue4Z3W0x60/0.jpg)](https://youtu.be/0ue4Z3W0x60)  
+[![Pets 2021](http://img.youtube.com/vi/0ue4Z3W0x60/0.jpg)](https://youtu.be/0ue4Z3W0x60)   
 [Какие проекты делать начинающему фронтенд разработчику в 2021](https://youtu.be/0ue4Z3W0x60) - Front-end Science c Сергеем Пузанковым 
 
 
-[![Javascript Projects for Beginners](http://img.youtube.com/vi/DL29upwFESQ/0.jpg)](https://youtu.be/DL29upwFESQ) 
+
+[![Javascript Projects for Beginners](http://img.youtube.com/vi/DL29upwFESQ/0.jpg)](https://youtu.be/DL29upwFESQ)      
 [Javascript Projects for Beginners | Javascript Project Ideas](https://youtu.be/DL29upwFESQ) - (Eng)
 
