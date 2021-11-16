@@ -267,7 +267,7 @@
 - [Git Immersion](https://gitimmersion.com/index.html)
 - [GitBestPractices](https://sethrobertson.github.io/GitBestPractices/)
 - [GitHub CLI](https://cli.github.com/) - интерфейс GitHub в терминале
-- [Семантическое Версионирование 2.0.0](https://gist.github.com/rodnaxel/d58dbe74e225080f5937a2915ffc7131)
+- [Семантическое Версионирование 2.0.0](https://semver.org/lang/ru/)
 - [Чёрт побери, Git!?!](https://dangitgit.com/ru)
 - [Правила полета на Git](https://github.com/k88hudson/git-flight-rules/blob/master/README_ru.md)
 - [First aid Git](http://firstaidgit.ru/)
