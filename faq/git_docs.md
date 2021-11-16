@@ -165,6 +165,7 @@
 ### Именование коммитов ###
 
 - [Соглашение о коммитах (Conventional Commits)](https://www.conventionalcommits.org/ru/v1.0.0/) (Ru)
+- [Git Style Guide](https://github.com/alik0211/git-style-guide) (Ru)
 
 <!-- -->
 
