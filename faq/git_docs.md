@@ -39,6 +39,7 @@
 
 ### Шпаргалки ###
 
+- [overapi.com](https://overapi.com/git)
 - [python-tut.ru](http://python-tut.ru/media/pybb_upload/attachments/fc0ee768-5d71-4c1d-81cc-119a4774196f.pdf) (pdf)
 - [fktpm.ru](https://fktpm.ru/file/105-git.pdf) (pdf)
 - [Git Versioning Model](https://scribestools.readthedocs.io/en/latest/_downloads/dist-GitCheatSheet-21.pdf) (pdf)
