@@ -2,13 +2,13 @@
 
 ## Дорожная карта (roadmap) изучения [Git](https://git-scm.com/) ##
 
-[<img src="https://cdn.iconscout.com/icon/free/png-256/git-225996.png" alt="git" width="100">](https://git-scm.com/)
-[<img src="https://cdn.iconscout.com/icon/free/png-256/github-1521500-1288242.png" width="100">](https://github.com/)
-[<img src="https://cdn.iconscout.com/icon/free/png-256/gitlab-282507.png" width="100">](https://gitlab.com/)
-[<img src="https://cdn.iconscout.com/icon/free/png-256/bitbucket-226075.png" width="100">](https://bitbucket.org/)
-[<img src="https://icon-library.com/images/github-icon-png/github-icon-png-28.jpg" alt="GitHub Desktop" width="100">](https://desktop.github.com/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="100">](https://git-scm.com/)
+[<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" width="100">](https://github.com/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="gitlab" width="100">](https://gitlab.com/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" alt="bitbucket" width="100">](https://bitbucket.org/)
+[<img src="https://desktop.github.com/images/desktop-icon.svg" alt="GitHub Desktop" width="100">](https://desktop.github.com/)
 [<img src="https://logodix.com/logo/1716400.png" alt="GitKraken" width="100">](https://www.gitkraken.com/)
-[<img src="https://cdn.iconscout.com/icon/free/png-256/sourcetree-282538.png" alt="SourceTree" width="100">](https://www.sourcetreeapp.com/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sourcetree/sourcetree-original.svg" alt="SourceTree" width="100">](https://www.sourcetreeapp.com/)
 
 
 ### С чего начать ###
@@ -98,6 +98,16 @@
 
 <!-- -->
 
+- Знакомство с Git и GitHub: руководство для начинающих:
+  - [часть 1](https://nuancesprog.ru/p/5243/)
+  - [часть 2](https://nuancesprog.ru/p/5272/)
+
+<!-- -->
+
+- [Эффективное использование Github](https://habr.com/ru/company/2gis/blog/306166/)
+
+<!-- -->
+
 - Samuel Faure (оригинал): [How to learn Git slowly](https://dev.to/samuelfaure/how-to-learn-git-slowly-38fa)
 - Samuel Faure (перевод): [Как освоить Git медленно, но верно](https://techrocks.ru/2021/07/20/how-to-master-git-roadmap/)
 
@@ -132,9 +142,9 @@
 
 ### Git хостинги ###
 
-[<img src="https://cdn.iconscout.com/icon/free/png-256/github-1521500-1288242.png" width="100">](https://github.com/)
-[<img src="https://cdn.iconscout.com/icon/free/png-256/gitlab-282507.png" width="100">](https://gitlab.com/)
-[<img src="https://cdn.iconscout.com/icon/free/png-256/bitbucket-226075.png" width="100">](https://bitbucket.org/)
+[<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" width="100">](https://github.com/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="gitlab" width="100">](https://gitlab.com/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" alt="bitbucket" width="100">](https://bitbucket.org/)
 
 - [GitHub](https://github.com/)
 - [GitLab](https://gitlab.com/)
@@ -153,9 +163,9 @@
 
 ### UI клиенты ###
 
-[<img src="https://icon-library.com/images/github-icon-png/github-icon-png-28.jpg" alt="GitHub Desktop" width="100">](https://desktop.github.com/)
+[<img src="https://desktop.github.com/images/desktop-icon.svg" alt="GitHub Desktop" width="100">](https://desktop.github.com/)
 [<img src="https://logodix.com/logo/1716400.png" alt="GitKraken" width="100">](https://www.gitkraken.com/)
-[<img src="https://cdn.iconscout.com/icon/free/png-256/sourcetree-282538.png" alt="SourceTree" width="100">](https://www.sourcetreeapp.com/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sourcetree/sourcetree-original.svg" alt="SourceTree" width="100">](https://www.sourcetreeapp.com/)
 
 - [GitHub Desktop](https://desktop.github.com/)
 - [GitKraken](https://www.gitkraken.com/)
@@ -276,6 +286,7 @@
 - [Работа и настройка GitHub Desktop](https://betacode.net/10283/use-github-with-github-desktop)
 - [Более одного аккаунта на GitHub с одной машины](ssh_key.md)
 - [Гитхаб как хостинг](https://htmlacademy.ru/blog/boost/tools/github-as-hosting)
+- [Как создать бесплатный сайт на GitHub Pages](https://nuancesprog.ru/p/4318/)
 - [Кастомизация профиля GitHub](https://habr.com/ru/post/532248/)
 - [Awesome GitHub Profile README](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 - [GitHub Profile Readme Generator](https://arturssmirnovs.github.io/github-profile-readme-generator/)
