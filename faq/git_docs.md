@@ -272,6 +272,7 @@
 
 - [Git Community Book](http://uleming.github.io/gitbook/index.html)
 - [Awesome Git](https://github.com/dictcp/awesome-git)
+- [Awesome GitHub](https://github.com/Kikobeats/awesome-github)
 - [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet)
 - [GitIgnore Collection](https://github.com/github/gitignore)
 - [Learning Lab](https://lab.github.com/)
