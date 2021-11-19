@@ -32,7 +32,6 @@
 - [В тестировщики хочу, пусть меня научат!](faq/profession_tester.md)
 - [Кто такие бизнес-аналитики и как стать БА?](https://www.thebagirl.com/kto-takie-biznes-analitiki-i-kak-stat-ba/?fbclid=IwAR2I52YZpqqMA8DvP5NGUr8tYx4nsSyMMf1e-CRvuEG1-j3BqONNpI-6_F4)
 
-***
 ## Полезное:
 
 - [Git и GitHub](faq/git_docs.md)
