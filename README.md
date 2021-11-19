@@ -4,8 +4,6 @@
 [<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/OldCodersClub/faq?logoColor=red&style=social">](https://github.com/OldCodersClub/faq/stargazers)
 [<img alt="GitHub watchers" src="https://img.shields.io/github/watchers/OldCodersClub/faq?logoColor=red&style=social">](https://github.com/OldCodersClub/faq/watchers)
 [<img alt="GitHub forks" src="https://img.shields.io/github/forks/OldCodersClub/faq?logoColor=red&style=social">](https://github.com/OldCodersClub/faq/network/members)
-[<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UChbHeEGkYqM2b1HdAhf4y1g?style=social">](https://www.youtube.com/channel/UChbHeEGkYqM2b1HdAhf4y1g/videos)
-[<img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UChbHeEGkYqM2b1HdAhf4y1g?style=social">](https://www.youtube.com/channel/UChbHeEGkYqM2b1HdAhf4y1g/about)
 
 # [Клуб дедов-программистов](https://t.me/oldcodersclub) FAQ
 
@@ -42,15 +40,3 @@
 
 - [Git и GitHub](faq/git_docs.md)
 - [Как мы учим английский язык](faq/English.md)
-
----
-
-## Как в 44 года стать программистом на Python. [Youtube канал](https://www.youtube.com/channel/UChbHeEGkYqM2b1HdAhf4y1g)
-
-[![Объясняю с чего начать](http://img.youtube.com/vi/XThWZuEOCNE/0.jpg)](https://www.youtube.com/watch?v=XThWZuEOCNE)
-[![Часть 2. Как подступиться к веб-разработке на Django](http://img.youtube.com/vi/kolUAlhu-ho/0.jpg)](https://www.youtube.com/watch?v=kolUAlhu-ho)
-[![Часть 3. Веб-разработка. Django, Vue JS, Bootstrap и другое](http://img.youtube.com/vi/wxHLDV1fyZQ/0.jpg)](https://www.youtube.com/watch?v=wxHLDV1fyZQ)
-[![Часть 4. Выкладываю на боевой сервер. Git и GitHub](http://img.youtube.com/vi/f2XRAU9GJM4/0.jpg)](https://www.youtube.com/watch?v=f2XRAU9GJM4)
-[![Часть 5. Понять Docker](http://img.youtube.com/vi/jE4h1cHzHUw/0.jpg)](https://www.youtube.com/watch?v=jE4h1cHzHUw)
-[![Стать программистом в 40+? О сложностях в обучении и устройстве на работу. Демотивирующее видео](http://img.youtube.com/vi/Rjnj_Qb6Pik/0.jpg)](https://www.youtube.com/watch?v=Rjnj_Qb6Pik)
-[![Стать программистом в 40+? Мотивирующее видео](http://img.youtube.com/vi/VORpw9_t6-Y/0.jpg)](https://www.youtube.com/watch?v=VORpw9_t6-Y)
