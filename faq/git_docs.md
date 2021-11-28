@@ -191,7 +191,7 @@
 - Блог компании Яндекс: [Применяем стандарт Conventional Commits](https://habr.com/ru/company/yandex/blog/431432/)
 - [Онлайн конфигуратор правильных коммитов](https://commitlint.io/)
 - Шпаргалка: [Именование коммитов](https://gist.github.com/bibendi/7941823)
-- Ещё одна: [Порядок именования коммитов в Git](https://drbrain.ru/articles/git-commit-message/)
+- Ещё одна: [Commit naming](https://gist.github.com/Aleksey-Voko/a0a464a8a0cf3e9058f6e477c04f5414)
 - Статья: [Стиль именования коммитов](https://habr.com/ru/post/183646/)
 - Stackoverflow: [Стиль коммитов в Git](https://ru.stackoverflow.com/questions/640787/%D0%A1%D1%82%D0%B8%D0%BB%D1%8C-%D0%BA%D0%BE%D0%BC%D0%BC%D0%B8%D1%82%D0%BE%D0%B2-%D0%B2-git)
 
