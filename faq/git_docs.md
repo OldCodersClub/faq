@@ -282,7 +282,7 @@
 - [First aid Git](http://firstaidgit.ru/)
 - [Visualizing Git Concepts](https://onlywei.github.io/explain-git-with-d3/)
 - [Работа и настройка GitHub Desktop](https://betacode.net/10283/use-github-with-github-desktop)
-- [Более одного аккаунта на GitHub с одной машины](ssh_key.md)
+- [Более одного аккаунта на GitHub с одной машины](https://gist.github.com/Aleksey-Voko/9bdf98f25290a796f17660705722509c)
 - [Гитхаб как хостинг](https://htmlacademy.ru/blog/boost/tools/github-as-hosting)
 - [Как создать бесплатный сайт на GitHub Pages](https://nuancesprog.ru/p/4318/)
 - [Кастомизация профиля GitHub](https://habr.com/ru/post/532248/)
