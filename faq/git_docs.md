@@ -296,6 +296,7 @@
 - О важности GitHub-профиля специалиста: [Как GitHub может помочь найти специалистов?](https://hurma.work/rf/blog/instrukcziya-po-github-dlya-rekruterov-kak-najti-togo-kto-vam-nuzhen-2/)
 - [Лицензия для вашего open-source проекта](https://habr.com/ru/post/243091/)
 - [LicenseIT - лицензирование программного обеспечения](http://licenseit.ru/wiki/index.php/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0)
+- [GitHub Actions - Основы Автоматизации - DevOps - GitOps](https://www.youtube.com/watch?v=Yg5rpke79X4)
 
 <!-- -->
 
