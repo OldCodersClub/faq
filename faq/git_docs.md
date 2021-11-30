@@ -1,6 +1,6 @@
 # Git и GitHub #
 
-## Дорожная карта (roadmap) изучения [Git](https://git-scm.com/) ##
+## Дорожная карта (roadmap) изучения [Git](https://git-scm.com/) и [GitHub](https://github.com/) ##
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="100">](https://git-scm.com/)
 [<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" width="100">](https://github.com/)
