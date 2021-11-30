@@ -33,7 +33,7 @@
 
 | [онлайн](https://git-scm.com/book/ru/v2) | [скачать](https://github.com/progit/progit2-ru/releases) |
 |     :---:    |     :---:      |
-| [<img src="https://git-scm.com/images/progit2.png" width="50">](https://git-scm.com/book/ru/v2)   | [<img src="https://git-scm.com/images/pdf.png" width="50">](https://github.com/progit/progit2-ru/releases/download/2.1.93/progit.pdf) [<img src="https://git-scm.com/images/epub.png" width="50">](https://github.com/progit/progit2-ru/releases/download/2.1.93/progit.epub) [<img src="https://git-scm.com/images/mobi.png" width="50">](https://github.com/progit/progit2-ru/releases/download/2.1.93/progit.mobi)     |
+| [<img src="https://git-scm.com/images/progit2.png" width="100">](https://git-scm.com/book/ru/v2)   | [<img src="https://git-scm.com/images/pdf.png" width="100">](https://github.com/progit/progit2-ru/releases/download/2.1.93/progit.pdf) [<img src="https://git-scm.com/images/epub.png" width="100">](https://github.com/progit/progit2-ru/releases/download/2.1.93/progit.epub) [<img src="https://git-scm.com/images/mobi.png" width="100">](https://github.com/progit/progit2-ru/releases/download/2.1.93/progit.mobi)     |
 
 ---
 
