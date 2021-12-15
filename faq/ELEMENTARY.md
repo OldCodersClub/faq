@@ -19,7 +19,7 @@
     * [ HTML/CSS/JavaScript by w3schools](https://www.w3schools.com/html/default.asp)
     * [ HTML/CSS/JavaScript by FreeCodeCamp.org](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/)
 
-  - ### Онлайн-игры (ENG):
+  - ### Онлайн-игры (RU/ENG):
     * [CSS selectors](https://css-diner.netlify.app/)
     * [CSS Flexbox](http://flexboxfroggy.com/)
     * [CSS grid](http://cssgridgarden.com/)
