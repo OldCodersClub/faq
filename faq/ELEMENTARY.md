@@ -10,9 +10,9 @@
 6. [Первые шаги в JavaScript](https://developer.mozilla.org/ru/docs/Learn/JavaScript/First_steps)
 7. [Современный учебник JavaScript на learn.javascript.ru](https://learn.javascript.ru/)
 8. .[Основы HTML и CSS на Степике, преподаватель Тимур Гудиев](https://stepik.org/course/52164/promo#toc)
-9. ![Image of course](https://stepik.org/media/cache/images/courses/38218/cover_S6lejZQ/dae8f6081745ac5e843df1a60f670209.png) [Веб-разработка для начинающих: HTML и CSS на Степике](https://stepik.org/course/38218/promo#toc)
-10. 
-11. Интерактивные тренажеры для практики HTML/CSS и JavaScript:
+9. [Веб-разработка для начинающих: HTML и CSS на Степике](https://stepik.org/course/38218/promo#toc) ![Image of course](https://stepik.org/media/cache/images/courses/38218/cover_S6lejZQ/dae8f6081745ac5e843df1a60f670209.png)
+
+10. Интерактивные тренажеры для практики HTML/CSS и JavaScript:
   - ### RU:
     * [HTMLacademy](https://htmlacademy.ru/courses/basic-html-css)
     * [HTML на ru.code-basics](https://ru.code-basics.com/languages/html) и [CSS](https://ru.code-basics.com/languages/css)
