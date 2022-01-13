@@ -18,14 +18,6 @@
 10. [“Винтик”. Профессия Верстальщик Сайтов, преподаватель АЛЕКСАНДР СОКИРКА](https://geniuscourses.com/course/web-start/?tab=tab-overview)
 
 
-### Плейлисты на Ютуб (RU):
-
-    -  [ФРИЛАНСЕР по ЖИЗНИ. БЕСПЛАТНЫЙ курс по верстке сайтов HTML/CSS/JS. Женя Андриканич]( https://www.youtube.com/playlist?list=PLM6XATa8CAG4F9nAIYNS5oAiPotxwLFIr )
-    -  [Бесплатный курс "Базовый JavaScript". Иван Петриченко]( https://www.youtube.com/playlist?list=PLQEds1ESt7csjTThaq8xzdf0Axxhyk5mL )
-    -  [Курс JavaScript от Палыча. Преподаватель Павел Гарский]( https://www.youtube.com/playlist?list=PLXv6UwQvx06vS0sdqGYOXKGOYEbk3W0rW )
-
-
-
 ### Интерактивные тренажеры для практики HTML/CSS и JavaScript:
 
   - ### RU:
@@ -43,8 +35,12 @@
     * [CSS Flexbox](http://flexboxfroggy.com/)
     * [CSS grid](http://cssgridgarden.com/)
 
+***
+- ### Плейлисты на Ютуб (RU):
+
+    -  [ФРИЛАНСЕР по ЖИЗНИ. БЕСПЛАТНЫЙ курс по верстке сайтов HTML/CSS/JS. Женя Андриканич]( https://www.youtube.com/playlist?list=PLM6XATa8CAG4F9nAIYNS5oAiPotxwLFIr )
+    -  [Бесплатный курс "Базовый JavaScript". Иван Петриченко]( https://www.youtube.com/playlist?list=PLQEds1ESt7csjTThaq8xzdf0Axxhyk5mL )
+    -  [Курс JavaScript от Палыча. Преподаватель Павел Гарский]( https://www.youtube.com/playlist?list=PLXv6UwQvx06vS0sdqGYOXKGOYEbk3W0rW )
 
 
-
-  
 
