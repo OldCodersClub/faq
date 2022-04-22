@@ -7,6 +7,7 @@
 - [Основы Swift](https://www.youtube.com/playlist?list=PLUb9K99oQb2u1swlk6TTuV1vnMEG8ktfV)
 - [Java. Базовый курс на Stepik.org, ведет Алексей Владыкин](https://stepik.org/course/187/info)
 - [Руководство по вкатыванию в backend-разработку на Java](https://github.com/EightM/JavaBackendStartGuide)
+- [Вопросы для собеседования на Java Developer](https://github.com/enhorse/java-interview)
 
 ## Другие ресурсы:
 
