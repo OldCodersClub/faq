@@ -1,8 +1,8 @@
 ### RU:
 
-    * [Старт в Figma для верстальщика. Cтатья](https://htmlacademy.ru/blog/best/figma)
+   * [Старт в Figma для верстальщика. Cтатья](https://htmlacademy.ru/blog/best/figma)
 
-    * BrainsCloud [Верстка сайта с нуля для начинающих на HTML и CSS. Плейлист, 2019](https://www.youtube.com/watch?v=ltMSrSis9ww&list=PLoq3Accf02PVdUqjqPdWMG4HbEZXlhICW)
+   * BrainsCloud [Верстка сайта с нуля для начинающих на HTML и CSS. Плейлист, 2019](https://www.youtube.com/watch?v=ltMSrSis9ww&list=PLoq3Accf02PVdUqjqPdWMG4HbEZXlhICW)
 
     * MaxGraph - cайты как страсть  [Адаптивная верстка сайта с нуля для новичков. Полезные советы по верстке сайта. Видео, 2021](https://youtu.be/D8DqoTjd_dg)
 
