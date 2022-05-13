@@ -9,7 +9,7 @@
 ![Image of course](https://stepik.org/media/cache/images/courses/38218/cover_S6lejZQ/dae8f6081745ac5e843df1a60f670209.png)
 
 
-4.  [Что такое HTML](https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/HTML_basics)
+4. [Что такое HTML](https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/HTML_basics)
 5. [Учебник](http://code.mu/ru/markup/book/prime/) по основам HTML/CSS/JavaScript простым языком
 6. [Первые шаги в JavaScript](https://developer.mozilla.org/ru/docs/Learn/JavaScript/First_steps)
 7. [Современный учебник JavaScript на learn.javascript.ru](https://learn.javascript.ru/)
@@ -38,6 +38,7 @@
 ***
 - ### Плейлисты на Ютуб (RU):
 
+    -  Владилен Минин [HTML для Начинающих - Практический Курс. Видео, 2021](https://youtu.be/DOEtVdkKwcU )  
     -  [ФРИЛАНСЕР по ЖИЗНИ. БЕСПЛАТНЫЙ курс по верстке сайтов HTML/CSS/JS. Женя Андриканич]( https://www.youtube.com/playlist?list=PLM6XATa8CAG4F9nAIYNS5oAiPotxwLFIr )
     -  [Бесплатный курс "Базовый JavaScript". Иван Петриченко]( https://www.youtube.com/playlist?list=PLQEds1ESt7csjTThaq8xzdf0Axxhyk5mL )
     -  [Курс JavaScript от Палыча. Преподаватель Павел Гарский]( https://www.youtube.com/playlist?list=PLXv6UwQvx06vS0sdqGYOXKGOYEbk3W0rW )
