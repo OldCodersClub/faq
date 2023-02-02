@@ -36,4 +36,5 @@
 ## Полезное:
 
 - [Git и GitHub](faq/git_docs.md)
+- [Docker Cheat Sheet](https://gist.github.com/Aleksey-Voko/50f3631386514e340fca7c416f21ab9f)
 - [Как мы учим английский язык](faq/English.md)
