@@ -60,6 +60,10 @@ Docker - это платформа, позволяющая универсаль�
 - [MySQL + Adminer на базе docker-compose](https://github.com/LessonDump/DockerMySqlAdminer)
 - [Простой шаблон Telegram-бота на основе docker-compose](https://github.com/LessonDump/TelegramBotDockerTmpl)
 
+<!-- -->
+
+- [Play with Docker](https://labs.play-with-docker.com/) (En)
+
 ---
 
 ### Курсы
@@ -101,6 +105,7 @@ Docker - это платформа, позволяющая универсаль�
 ### Руководства
 
 - [Docker Getting Started Tutorial](https://github.com/docker/getting-started) (En)
+- [Why Do I Need Docker, and How Do I Use It?](https://guides.hexlet.io/docker/) (En)
 - [Введение в Docker: образы, контейнеры и докер-файлы](https://1cloud.ru/blog/docker_start) (Ru)
 - [Полное практическое руководство по Docker: с нуля до кластера на AWS](https://habr.com/ru/post/310460/) (Ru)
 - [Докер Учебник](https://coderlessons.com/tutorials/noveishie-tekhnologii/uchitsia-doker/doker-uchebnik) (Ru)
