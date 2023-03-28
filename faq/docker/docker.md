@@ -54,6 +54,8 @@ Docker - это платформа, позволяющая универсаль�
 - [Awesome Docker](https://github.com/veggiemonk/awesome-docker) (En)
 - [Awesome Compose](https://github.com/docker/awesome-compose) (En)
 - [Docker Cheat Sheet](https://gist.github.com/Aleksey-Voko/50f3631386514e340fca7c416f21ab9f)
+- [Docker Cheat Sheet (Will Sargent)](https://github.com/wsargent/docker-cheat-sheet/tree/master/ru)
+- [Docker-compose Cheat Sheet](https://www.programonaut.com/wp-content/uploads/2021/07/docker-compose-cheat-sheet.pdf)
 - [MySQL на базе docker-compose](https://github.com/LessonDump/DockerMySQL)
 - [Postgresql на базе docker-compose](https://github.com/LessonDump/DockerPostgres)
 - [Postgresql + PgAdmin на базе docker-compose](https://github.com/LessonDump/DockerPostgresPgAdmin)
@@ -153,6 +155,7 @@ Docker - это платформа, позволяющая универсаль�
 - [50 вопросов по Docker, которые задают на собеседованиях, и ответы на них](https://habr.com/ru/company/southbridge/blog/528206/) (Ru)
 - [Первый опыт работы с Docker](https://habr.com/ru/post/663026/) (Ru)
 - [Docker на AWS](https://aws.amazon.com/ru/docker/) (Ru)
+- [What is Docker networking?](https://www.oreilly.com/content/what-is-docker-networking/) (En)
 
 <!--
 https://uzverss.livejournal.com/90619.html
