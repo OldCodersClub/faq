@@ -35,6 +35,10 @@ Docker - это платформа, позволяющая универсаль�
 
 - [Изучаем Docker, часть 1: основы](https://habr.com/ru/company/ruvds/blog/438796/) (Ru)
 - [Изучаем Docker, часть 2: термины и концепции](https://habr.com/ru/company/ruvds/blog/439978/) (Ru)
+- [Изучаем Docker, часть 3: файлы Dockerfile](https://habr.com/ru/company/ruvds/blog/439980/) (Ru)
+- [Изучаем Docker, часть 4: уменьшение размеров образов и ускорение их сборки](https://habr.com/ru/company/ruvds/blog/440658/) (Ru)
+- [Изучаем Docker, часть 5: команды](https://habr.com/ru/company/ruvds/blog/440660/) (Ru)
+- [Изучаем Docker, часть 6: работа с данными](https://habr.com/ru/company/ruvds/blog/441574/) (Ru)
 - [Руководство по Docker Compose для начинающих](https://habr.com/ru/company/ruvds/blog/450312/) (Ru)
 
 <!-- -->
