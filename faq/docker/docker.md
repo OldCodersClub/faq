@@ -139,6 +139,7 @@ Docker - это платформа, позволяющая универсаль�
 
 ### Полезности ###
 
+- [A Beginner-Friendly Introduction to Containers, VMs and Docker](https://www.freecodecamp.org/news/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b) (En)
 - [Docker Best Practices for Python Developers](https://testdriven.io/blog/docker-best-practices/#dockerfiles) (En)
 - [The best Docker base image for your Python application](https://pythonspeed.com/articles/base-image-python-docker-images/) (En)
 - [Using Alpine can make Python Docker builds 50× slower](https://pythonspeed.com/articles/alpine-docker-python/) (En)
@@ -146,7 +147,7 @@ Docker - это платформа, позволяющая универсаль�
 - [ENTRYPOINT vs CMD: назад к основам](https://habr.com/ru/company/southbridge/blog/329138/) (Ru)
 - [50 вопросов по Docker, которые задают на собеседованиях, и ответы на них](https://habr.com/ru/company/southbridge/blog/528206/) (Ru)
 - [Первый опыт работы с Docker](https://habr.com/ru/post/663026/) (Ru)
-- [Docker на AWS]() (Ru)
+- [Docker на AWS](https://aws.amazon.com/ru/docker/) (Ru)
 
 <!--
 https://uzverss.livejournal.com/90619.html
