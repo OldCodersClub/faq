@@ -129,8 +129,11 @@ Docker - это платформа, позволяющая универсаль�
 [![Docker для Начинающих - Полный Курс](http://img.youtube.com/vi/n9uCgUzfeRQ/0.jpg)](https://www.youtube.com/watch?v=n9uCgUzfeRQ)  
 [Docker для Начинающих - Полный Курс](https://www.youtube.com/watch?v=n9uCgUzfeRQ) от **Владилена Минина**
 
-[![Плейлист Docker](http://img.youtube.com/vi/Sa7uOGczoHc/0.jpg)](https://www.youtube.com/watch?v=Sa7uOGczoHc&list=PLU2ftbIeotGoGFC_2lj-OplT_cItXfu48)  
-[Плейлист Docker](https://www.youtube.com/watch?v=Sa7uOGczoHc&list=PLU2ftbIeotGoGFC_2lj-OplT_cItXfu48) от **letsCode**
+[![Плейлист Docker уроки от А до Я](http://img.youtube.com/vi/EbEZgdTOHzE/0.jpg)](https://www.youtube.com/playlist?list=PLD5U-C5KK50XMCBkY0U-NLzglcRHzOwAg)  
+[Плейлист Docker уроки от А до Я](https://www.youtube.com/playlist?list=PLD5U-C5KK50XMCBkY0U-NLzglcRHzOwAg) от **DKA-DEVELOP**
+
+[![Плейлист Docker](http://img.youtube.com/vi/Sa7uOGczoHc/0.jpg)](https://www.youtube.com/playlist?list=PLU2ftbIeotGoGFC_2lj-OplT_cItXfu48)  
+[Плейлист Docker](https://www.youtube.com/playlist?list=PLU2ftbIeotGoGFC_2lj-OplT_cItXfu48) от **letsCode**
 
 ---
 
