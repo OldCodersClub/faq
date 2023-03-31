@@ -151,6 +151,10 @@ Docker - это платформа, позволяющая универсаль�
 
 ### Полезности ###
 
+- [DockStation](https://dockstation.io/)
+
+<!-- -->
+
 - [A Beginner-Friendly Introduction to Containers, VMs and Docker](https://www.freecodecamp.org/news/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b) (En)
 - [Docker Best Practices for Python Developers](https://testdriven.io/blog/docker-best-practices/#dockerfiles) (En)
 - [The best Docker base image for your Python application](https://pythonspeed.com/articles/base-image-python-docker-images/) (En)
@@ -161,7 +165,4 @@ Docker - это платформа, позволяющая универсаль�
 - [Первый опыт работы с Docker](https://habr.com/ru/post/663026/) (Ru)
 - [Docker на AWS](https://aws.amazon.com/ru/docker/) (Ru)
 - [What is Docker networking?](https://www.oreilly.com/content/what-is-docker-networking/) (En)
-
-<!--
-https://uzverss.livejournal.com/90619.html
--->
+- [Лучшие альтернативы для Docker](https://habr.com/ru/company/first/blog/598337/) (Ru)
