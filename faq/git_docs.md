@@ -25,6 +25,7 @@
 - [Introduction to GitHub](https://lab.github.com/githubtraining/introduction-to-github) - официальный интерактивный курс (En)
 - [Основы Git](https://cub-it.org/course/view.php?id=4) - бесплатный интерактивный курс (Ru) от **Cub-it**
 - [Простое руководство по Git](http://rogerdudler.github.io/git-guide/index.ru.html) (Ru)
+- [GitHub Skills](https://github.com/skills) (En)
 
 ---
 
