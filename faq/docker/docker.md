@@ -169,3 +169,4 @@ Docker - это платформа, позволяющая универсаль�
 - [What is Docker networking?](https://www.oreilly.com/content/what-is-docker-networking/) (En)
 - [Лучшие альтернативы для Docker](https://habr.com/ru/company/first/blog/598337/) (Ru)
 - [Альтернативы Docker](https://techrocks.ru/2021/12/04/docker-alternatives/) (Ru)
+- [Изучение построения сетей Docker](http://onreader.mdl.ru/LearningDockerNetworking/content/index.html) (Ru)
