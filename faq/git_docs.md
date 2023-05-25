@@ -58,6 +58,11 @@
 - [jan-krueger.net](https://jan-krueger.net/wordpress/wp-content/uploads/2007/09/git-cheat-sheet.pdf) (pdf)
 - [git-pretty](https://tyapk.ru/storage/app/media/git/git-pretty.pdf) (pdf)
 
+<!-- -->
+
+<!--suppress CheckImageSize -->
+<img src="../res/git/GitCheatSheet.jpg" alt="git_cheat_sheet" width="600">
+
 ---
 
 ### Видео уроки ###
