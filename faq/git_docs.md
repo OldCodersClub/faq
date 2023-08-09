@@ -52,7 +52,7 @@
 - [python-tut.ru](http://python-tut.ru/media/pybb_upload/attachments/fc0ee768-5d71-4c1d-81cc-119a4774196f.pdf) (pdf)
 - [fktpm.ru](https://fktpm.ru/file/105-git.pdf) (pdf)
 - [Git Versioning Model](https://scribestools.readthedocs.io/en/latest/_downloads/dist-GitCheatSheet-21.pdf) (pdf)
-- [Github Cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf) (pdf)
+- [GitHub Cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf) (pdf)
 - [cheatography.com](https://cheatography.com/shirmik2003/cheat-sheets/git-cheat-sheet-by-samcollett-rus-wip/pdf/) (pdf)
 - [cheat-sheets.org](http://www.cheat-sheets.org/saved-copy/git-cheat-sheet.pdf) (pdf)
 - [jan-krueger.net](https://jan-krueger.net/wordpress/wp-content/uploads/2007/09/git-cheat-sheet.pdf) (pdf)
