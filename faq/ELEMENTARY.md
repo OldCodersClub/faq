@@ -15,7 +15,7 @@
 7. [Современный учебник JavaScript на learn.javascript.ru](https://learn.javascript.ru/)
 8. [Основы HTML и CSS на Степике, преподаватель Тимур Гудиев](https://stepik.org/course/52164/promo#toc)
 9. [Веб-разработка для начинающих: HTML и CSS на Степике](https://stepik.org/course/38218/promo#toc)
-10. [“Винтик”. Профессия Верстальщик Сайтов, преподаватель АЛЕКСАНДР СОКИРКА](https://geniuscourses.com/course/web-start/?tab=tab-overview)
+
 
 
 ### Интерактивные тренажеры для практики HTML/CSS и JavaScript:
