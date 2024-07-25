@@ -135,6 +135,9 @@ Docker - это платформа, позволяющая универсаль�
 [![Основы Docker. Большой практический выпуск](http://img.youtube.com/vi/QF4ZF857m44/0.jpg)](https://www.youtube.com/watch?v=QF4ZF857m44)  
 [Основы Docker. Большой практический выпуск](https://www.youtube.com/watch?v=QjT4HuF9gJs) от **Артема Матяшова**
 
+[![Docker для новичков](http://img.youtube.com/vi/tZm1uFAMei0/0.jpg)](https://www.youtube.com/playlist?list=PL8X2nqRlWfaYovSn2VgmJ1c-WaUTTVdcW)  
+[Docker для новичков](https://www.youtube.com/playlist?list=PL8X2nqRlWfaYovSn2VgmJ1c-WaUTTVdcW) от **javabegin**
+
 [![Что такое docker за 200 секунд](http://img.youtube.com/vi/HqhgsmThmwA/0.jpg)](https://www.youtube.com/watch?v=HqhgsmThmwA)  
 [Что такое docker за 200 секунд](https://www.youtube.com/watch?v=HqhgsmThmwA) от **The Art of Development**
 
