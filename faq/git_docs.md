@@ -57,6 +57,7 @@
 - [cheat-sheets.org](http://www.cheat-sheets.org/saved-copy/git-cheat-sheet.pdf) (pdf)
 - [jan-krueger.net](https://jan-krueger.net/wordpress/wp-content/uploads/2007/09/git-cheat-sheet.pdf) (pdf)
 - [git-pretty](https://tyapk.ru/storage/app/media/git/git-pretty.pdf) (pdf)
+- [Git: наглядная справка](https://marklodato.github.io/visual-git-guide/index-ru.html)
 
 <!-- -->
 
