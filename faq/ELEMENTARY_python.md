@@ -17,3 +17,4 @@
 - [pythontutor.com](https://pythontutor.com/live.html#mode=edit)
 - [trinket.io](https://trinket.io/embed/python3/a5bd54189b)
 - [programiz.com](https://www.programiz.com/python-programming/online-compiler/)
+- [Koddo Python Playground](https://koddo.ru/playground/python) — бесплатный запуск Python в браузере без регистрации, интерфейс на русском.
