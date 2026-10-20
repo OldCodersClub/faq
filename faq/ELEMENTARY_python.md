@@ -15,5 +15,5 @@
 Интерактивные интерпретаторы, позволяющие решать задачи без установки окружения:
 
 - [pythontutor.com](https://pythontutor.com/live.html#mode=edit)
-- [trinket.io](https://trinket.io/embed/python3/a5bd54189b)
+- [coddy.tech](https://coddy.tech/playground/ru/python)
 - [programiz.com](https://www.programiz.com/python-programming/online-compiler/)
